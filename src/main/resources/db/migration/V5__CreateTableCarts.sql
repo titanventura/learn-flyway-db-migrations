@@ -1,0 +1,4 @@
+CREATE TABLE carts (
+    ID INT NOT NULL,
+    USER_ID INT NOT NULL
+);

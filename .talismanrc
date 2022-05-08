@@ -7,4 +7,9 @@ fileignoreconfig:
   checksum: ce917714c7f5c1b45aa892f4918a3e50fa9de046bd3b765a555fb4ee65bba0b6
 - filename: src/main/resources/db/migration/V4__AlterTableUsersAddPrimaryPhoneField.sql
   checksum: f841b5805d6db8a10ec9edf4414c04547896b6330dd760b693a4ccddecac0059
+- filename: src/main/resources/db/migration/V5__CreateTableCarts.sql
+  checksum: 759fe09d61f613c35a4de60fecc76ffe7713cd15b12831988432b81f3d9c8425
+- filename: src/main/resources/db/migration/V6__CreateTableCartItems.sql
+  checksum: 8ef810bd26d76581d5b5a681e98bc47edd279652750f0c674f78aee47ffee107
+
 version: ""
